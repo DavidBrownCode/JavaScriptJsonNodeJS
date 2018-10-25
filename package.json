@@ -1,7 +1,7 @@
 {
-  "name": "javascriptjsonnodejs",
+  "name": "classproject",
   "version": "1.0.0",
-  "description": "",
+  "description": "Personal project built for class Fall2018.  This may be a small portion of something that I have wanted to build connecting to rasberry pi.",
   "main": "FiguringOutVSCode.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,17 +10,26 @@
     "type": "git",
     "url": "git+https://github.com/DavidBrownCode/JavaScriptJsonNodeJS.git"
   },
-  "author": "",
+  "author": "David A. Brown",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DavidBrownCode/JavaScriptJsonNodeJS/issues"
   },
   "homepage": "https://github.com/DavidBrownCode/JavaScriptJsonNodeJS#readme",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.16.4",
     "morgan": "^1.9.1",
     "nodemailer": "^4.6.8",
     "nodemon": "^1.18.4",
     "winston": "^3.1.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "UWM",
+    "2018",
+    "Fall",
+    "David",
+    "Brown",
+    "raspberries"
+  ]
 }

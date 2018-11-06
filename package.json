@@ -18,9 +18,11 @@
   "homepage": "https://github.com/DavidBrownCode/JavaScriptJsonNodeJS#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "http": "0.0.0",
     "morgan": "^1.9.1",
     "nodemailer": "^4.6.8",
-    "nodemon": "^1.18.4",
+    "nodemon": "^1.18.5",
+    "path": "^0.12.7",
     "winston": "^3.1.0"
   },
   "devDependencies": {},
